@@ -1,13 +1,16 @@
 # Information theory, BSUIR, 4th semester
 
-#TI_1
+# TI_1
 Columnar transposition, Vigenere cipher, Playfair cipher
 
-#TI_2
+# TI_2
+
 Streaming encryption
 
-#TI_3
+# TI_3
+
 El-Gamal encryption
 
-#TI_4
+# TI_4
+
 Digital signature RSA
