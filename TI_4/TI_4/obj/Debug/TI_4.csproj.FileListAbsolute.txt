@@ -1,0 +1,11 @@
+C:\Users\mikyy\source\repos\TI_4\TI_4\bin\Debug\TI_4.exe.config
+C:\Users\mikyy\source\repos\TI_4\TI_4\bin\Debug\TI_4.exe
+C:\Users\mikyy\source\repos\TI_4\TI_4\bin\Debug\TI_4.pdb
+C:\Users\mikyy\source\repos\TI_4\TI_4\obj\Debug\TI_4.csproj.AssemblyReference.cache
+C:\Users\mikyy\source\repos\TI_4\TI_4\obj\Debug\TI_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikyy\source\repos\TI_4\TI_4\obj\Debug\TI_4.Form1.resources
+C:\Users\mikyy\source\repos\TI_4\TI_4\obj\Debug\TI_4.Properties.Resources.resources
+C:\Users\mikyy\source\repos\TI_4\TI_4\obj\Debug\TI_4.csproj.GenerateResource.cache
+C:\Users\mikyy\source\repos\TI_4\TI_4\obj\Debug\TI_4.csproj.CoreCompileInputs.cache
+C:\Users\mikyy\source\repos\TI_4\TI_4\obj\Debug\TI_4.exe
+C:\Users\mikyy\source\repos\TI_4\TI_4\obj\Debug\TI_4.pdb
